@@ -53,7 +53,7 @@ This project is designed to be **clean, scalable, and interview-ready**.
 
 ## Folder Structure
 
-''' 
+```
 src/
 ├── app/
 │ └── context/
@@ -73,7 +73,7 @@ src/
 ├── utils/
 │ └── validators.ts
 └── App.tsx
-'''
+```
 
 
 ---
