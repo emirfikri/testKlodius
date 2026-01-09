@@ -108,14 +108,14 @@ This project uses Jest and React Native Testing Library.
 Jest Setup (AsyncStorage Mock)
 
 jest.setup.ts:
-
+```bash
 import mockAsyncStorage from '@react-native-async-storage/async-storage/jest/async-storage-mock';
 
 jest.mock('@react-native-async-storage/async-storage', () => mockAsyncStorage);
-
+```
 
 jest.config.js:
-
+```bash
 module.exports = {
   preset: 'react-native',
   setupFilesAfterEnv: ['./jest.setup.ts'],
@@ -123,9 +123,11 @@ module.exports = {
     'node_modules/(?!(react-native|@react-native|@react-navigation)/)',
   ],
 };
+```
 
 Run Tests
+```bash
 npm test
 # or
 yarn test
-
+```
