@@ -139,3 +139,9 @@ yarn test
   <img src="screenshots/signup.png" width="250" />
   <img src="screenshots/home.png" width="250" />
 </p>
+
+## Demo Video
+
+<video src="screenshots/klaudius.webm" controls width="600"></video>
+
+[▶ Download / Watch Demo Video](screenshots/klaudius.webm)
