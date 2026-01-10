@@ -89,7 +89,9 @@ src/
 ### Install Dependencies
 
 ```bash
-npm install
+npm install 
+#if error 
+npm install --legacy-peer-deps 
 # or
 yarn install
 ```
