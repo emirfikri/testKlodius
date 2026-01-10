@@ -131,3 +131,14 @@ npm test
 # or
 yarn test
 ```
+
+## Screenshots
+
+### Login Screen
+![Login Screen](screenshots/login.png)
+
+### Signup Screen
+![Signup Screen](screenshots/signup.png)
+
+### Home Screen
+![Home Screen](screenshots/home.png)
