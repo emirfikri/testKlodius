@@ -134,11 +134,8 @@ yarn test
 
 ## Screenshots
 
-### Login Screen
-![Login Screen](screenshots/login.png)
-
-### Signup Screen
-![Signup Screen](screenshots/signup.png)
-
-### Home Screen
-![Home Screen](screenshots/home.png)
+<p align="center">
+  <img src="screenshots/login.png" width="250" />
+  <img src="screenshots/signup.png" width="250" />
+  <img src="screenshots/home.png" width="250" />
+</p>
