@@ -142,6 +142,6 @@ yarn test
 
 ## Demo Video
 
-<video src="screenshots/klaudius.webm" controls width="600"></video>
+<video src="screenshots/klaudius.gif" controls width="600"></video>
 
-[▶ Download / Watch Demo Video](screenshots/klaudius.webm)
+[▶ Download / Watch Demo Video](screenshots/klaudius.gif)
