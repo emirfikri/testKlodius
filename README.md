@@ -140,8 +140,10 @@ yarn test
   <img src="screenshots/home.png" width="250" />
 </p>
 
-## Demo Video
+## Demo Animation
 
-<video src="screenshots/klaudius.gif" controls width="600"></video>
+<p align="center">
+  <img src="screenshots/klaudius.gif" width="600" />
+</p>
 
-[▶ Download / Watch Demo Video](screenshots/klaudius.gif)
+[▶ Download Demo Animation](screenshots/klaudius.gif)
