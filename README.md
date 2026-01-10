@@ -143,7 +143,7 @@ yarn test
 ## Demo Animation
 
 <p align="center">
-  <img src="screenshots/klaudius.gif" width="600" />
+  <img src="screenshots/klaudius.gif" width="250" />
 </p>
 
 [▶ Download Demo Animation](screenshots/klaudius.gif)
